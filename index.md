@@ -1,5 +1,3 @@
-# ci Dog Walking and Training
-
 ![image](./banner.png)
 
 ## Who am I?
