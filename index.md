@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ![image](./banner.png)
 
 ## Who am I?
