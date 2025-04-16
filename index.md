@@ -25,8 +25,8 @@
     * Crate Training
     * Muzzle Training
 
-[!WARNING]
-At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience.
+> [!WARNING]
+> At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience.
 
 ## My Services
 ### Walking:
@@ -44,8 +44,8 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 
 Energetic dog? Want your pup to learn an activity that's fun for you both, but is not too demanding on you? Skate joring is a perfect activity for you and your dog to do together!
 
-[!TIP]
-🚲 Want to bike with your dog? this is an excellent stepping stone! 🚲
+> [!TIP]
+> 🚲 Want to bike with your dog? this is an excellent stepping stone! 🚲
 
 [!WARNING]
 Additional $10 per teir if your dog requires any training or reactivity management for any activity above.
