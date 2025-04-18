@@ -39,7 +39,7 @@ a {
 .alert.warn { border-color: orange; background-color: #fff4e5; }
 .alert.price { border-color: green; background-color: #e6ffed; }
 .arrow {
-    border: solid black;
+    border: solid #9381ff;
     border-width: 0 3em 3em 0;
     display: inline-block;
     padding: 3em;
