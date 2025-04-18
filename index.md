@@ -12,7 +12,7 @@
 ### A longmont resident of nearly 10 years.
 ### An intermediate dog trainer:
 * Working on my CPDT-KA Certification
-* Offering basic to intermedia level training for dogs of all ages.
+* Offering basic to intermediate level training for dogs of all ages.
     * #### Basic Commands: 
         * Sit
         * Stay
@@ -20,14 +20,14 @@
         * Release
         * Placement
         * Leave / dismiss
-    * #### Multiple Stage commands 
-    * #### Leash skills
+    * #### Multiple stage commands 
+    * #### Leash Akills
         * Curtailing Reactivity
         * Loose Leash Walking
-        * Running / Skate Joring
+        * Running
     * #### House training
-    * #### Crate Training
-    * #### Muzzle Training
+    * #### Crate training
+    * #### Muzzle training
 
 <div class="alert warn">
     <strong>
@@ -38,13 +38,15 @@
 ## My Services
 ### Walking
 <div class="alert price">
-    <strong>
+<strong>
+
 20 minutes: $25
 
 40 minutes: $45
 
 60 minutes: $60
-    </strong>
+
+</strong>
 </div>
 
 ### Running
@@ -69,13 +71,15 @@ Got an energetic breed that needs lots of energy released? I offer running servi
     </strong>
 </div>
 
-### Play dates / Solo Training
+### Play Dates / Solo Training
 <div class="alert price">
-    <strong>
+<strong>
+
 Play sessions: $25 per 30 minutes
 
 Solo Training: $35 per 30 minutes
-    </strong>
+
+</strong>
 </div>
 
 Out of the house often? Worried about your dog being alone for too long or just want them to have an extra bit of excitement during their day but they already walk enough with you? Want your pup to study up on their training while you're out and about? I can stop by for

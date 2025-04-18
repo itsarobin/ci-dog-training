@@ -38,6 +38,9 @@ a {
 .alert.info { border-color: #9381ff; }
 .alert.warn { border-color: orange; background-color: #fff4e5; }
 .alert.price { border-color: green; background-color: #e6ffed; }
+.alert p {
+    margin-bottom: 0;
+}
 .arrow {
     border: solid #9381ff;
     border-width: 0 2em 2em 0;
