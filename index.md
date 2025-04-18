@@ -34,7 +34,7 @@ title: "ci Dog Training & Walking | Longmont, CO"
 
 <div class="alert error">
     <strong>
-        ⚠️ At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience.
+        ⚠️ At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog's needs falls outside of my skills and experience.
     </strong>
 </div>
 
@@ -74,7 +74,7 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 
 <div class="alert info">
     <strong>
-    🚲 Want to bike with your dog? This is an excellent stepping stone! 🚲
+    🚲 Want to bike with your dog? This is an excellent stepping stone!
     </strong>
 </div>
 
