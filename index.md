@@ -9,11 +9,11 @@
 ## Who am I?
 
 ### My name is Robin Fisher (they/she)
-### A longmont resident of nearly 10 years.
+### A Longmont resident of nearly 10 years.
 ### An intermediate dog trainer:
 * Working on my CPDT-KA Certification
 * Offering basic to intermediate level training for dogs of all ages.
-    * #### Basic Commands: 
+    * #### Basic commands: 
         * Sit
         * Stay
         * Recall
@@ -21,7 +21,7 @@
         * Placement
         * Leave / dismiss
     * #### Multiple stage commands 
-    * #### Leash Akills
+    * #### Leash skills
         * Curtailing Reactivity
         * Loose Leash Walking
         * Running
@@ -78,7 +78,7 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 </strong>
 </div>
 
-Out of the house often? Worried about your dog being alone for too long or just want them to have an extra bit of excitement during their day but they already walk enough with you? Want your pup to study up on their training while you're out and about? I can stop by for
+Out of the house often? Worried about your dog being alone for too long or just want them to have an extra bit of excitement during their day? Want your pup to study up on their training while you're out and about? I can stop by to train or play with your dogs instead of taking them for a walk.
 
 ### In Home Training
 <div class="alert price">

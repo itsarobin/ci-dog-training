@@ -41,21 +41,21 @@ a {
 .alert p {
     margin-bottom: 0;
 }
-.arrow {
-    border: solid #9381ff;
-    border-width: 0 2em 2em 0;
+.arrow {border-width: 0 20px 20px 0;
     display: inline-block;
-    padding: 2em;
+    padding: 25px;
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     position: absolute;
-    bottom: 2.5em;
+    bottom: 2em;
     right: 0;
+    left: 0;
+    margin: 0 auto;
 }
 .arrow-container {
     display: block;
     position: relative;
     margin: 0 auto;
-    width: 2em;
+    width: 84px;
 }
   
