@@ -8,6 +8,9 @@ h2 {
     color: #9381ff;
     font-size: 2em !important;
 }
+ul strong {
+    margin: 0;
+}
 .alert {
     
     border-left: 6px solid #9381ff;

@@ -79,5 +79,5 @@ Working with you and your dog directly on your most pressing issues by teaching 
 
 ## Contact me
 
-### Email: robin@cidogtraining.com 
-### Call / Text: 720-378-8019
+### Email: [robin@cidogtraining.com](mailto:robin@cidogtraining.com) 
+### Call / Text: [720-378-8019](tel:720-378-8019)
