@@ -14,7 +14,7 @@ title: "ci Dog Training & Walking | Longmont, CO"
 ### My name is Robin Fisher (they/she)
 ### A Longmont resident of nearly 10 years.
 ### An intermediate dog trainer:
-* Working on my [Certified Professional Dog Trainer - Knowledge Assessed (CPDT-KA®) Certification](https://www.ccpdt.org/about-us/)
+* Working on my **[Certified Professional Dog Trainer - Knowledge Assessed (CPDT-KA®) Certification](https://www.ccpdt.org/about-us/)**
 * Offering basic to intermediate level training for dogs of all ages.
     * #### Basic commands: 
         * Sit
