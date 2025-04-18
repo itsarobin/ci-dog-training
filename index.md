@@ -36,6 +36,13 @@
 </div>
 
 ## My Services
+
+<div class="alert warn">
+    <strong>
+        ⚠️ Additional $10 per teir if your dog requires any training or reactivity management for any activity above. ⚠️
+    </strong>
+</div>
+
 ### Walking
 <div class="alert price">
 <strong>
@@ -60,12 +67,6 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 <div class="alert info">
     <strong>
     🚲 Want to bike with your dog? This is an excellent stepping stone! 🚲
-    </strong>
-</div>
-
-<div class="alert warn">
-    <strong>
-        ⚠️ Additional $10 per teir if your dog requires any training or reactivity management for any activity above. ⚠️
     </strong>
 </div>
 
