@@ -40,14 +40,17 @@ title: "ci Dog Training & Walking | Longmont, CO"
 
 ## My Services
 <div class="alert info">
-    <strong>
+<strong>
     🌈✨ Discounts available if scheduling multiple days per week!
-    </strong>
+</strong>
+<hr/>
+<strong>
+    💰 Additional $10 per teir if your dog requires any training or reactivity management for any activity below.
+</strong>
 </div>
 
 <div class="alert warn">
     <strong>
-        💰 Additional $10 per teir if your dog requires any training or reactivity management for any activity below.
     </strong>
 </div>
 
