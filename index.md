@@ -39,7 +39,7 @@
 
 <div class="alert warn">
     <strong>
-        ⚠️ Additional $10 per teir if your dog requires any training or reactivity management for any activity above. ⚠️
+        ⚠️ Additional $10 per teir if your dog requires any training or reactivity management for any activity below. ⚠️
     </strong>
 </div>
 
