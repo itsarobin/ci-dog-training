@@ -39,13 +39,11 @@
 ### Walking
 <div class="alert price">
 <strong>
+<p>20 minutes: $25</p>
 
-20 minutes: $25
+<p>40 minutes: $45</p>
 
-40 minutes: $45
-
-60 minutes: $60
-
+<p>60 minutes: $60</p>
 </strong>
 </div>
 
@@ -74,11 +72,9 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 ### Play Dates / Solo Training
 <div class="alert price">
 <strong>
+<p>Play sessions: $25 per 30 minutes</p>
 
-Play sessions: $25 per 30 minutes
-
-Solo Training: $35 per 30 minutes
-
+<p>Solo Training: $35 per 30 minutes</p>
 </strong>
 </div>
 
