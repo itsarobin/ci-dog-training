@@ -32,7 +32,7 @@ title: "ci Dog Training & Walking | Longmont, CO"
     * #### Crate training
     * #### Muzzle training
 
-<div class="alert warn">
+<div class="alert error">
     <strong>
         ⚠️ At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience.
     </strong>
