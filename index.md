@@ -1,11 +1,12 @@
 <link rel="stylesheet" href="style.css" />
 <title>ci Dog Training & Walking| Longmont, CO Dog Training & Walking</title>
-<a href="#my-services" class="arrow-container">
+<a href="#my-services">
+    <div class="arrow-container">
 
 ![image](./banner.png)
 
 <i class="arrow down"></i>
-
+    </div>
 </a>
 
 ## Who am I?
