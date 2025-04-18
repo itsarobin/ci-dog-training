@@ -8,19 +8,21 @@ h2 {
     color: #9381ff;
     font-size: 2em !important;
 }
+a {
+    color: #9381ff;
+    font-size: 2em !important;
+}
 strong ul {
-    margin: 0;
+    margin-bottom: 0;
 }
 .alert {
-    
     border-left: 6px solid #9381ff;
     background-color: #f8f7ff;
     padding: 1em;
     margin: 1em 0;
     border-radius: 6px;
     color: #333;
-  }
-  
+}
 .alert.info { border-color: #9381ff; }
 .alert.warn { border-color: orange; background-color: #fff4e5; }
 .alert.success { border-color: green; background-color: #e6ffed; }
