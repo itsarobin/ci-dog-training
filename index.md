@@ -49,11 +49,6 @@ title: "ci Dog Training & Walking | Longmont, CO"
 </strong>
 </div>
 
-<div class="alert warn">
-    <strong>
-    </strong>
-</div>
-
 ### Walking
 <div class="alert price">
 <strong>
