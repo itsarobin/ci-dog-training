@@ -45,7 +45,7 @@ a {
     border: solid #9381ff;
     border-width: 0 20px 20px 0;
     display: inline-block;
-    padding: 25px;
+    padding: 30px;
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     position: absolute;
