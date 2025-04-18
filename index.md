@@ -27,18 +27,24 @@
 
 <div class="alert warn">
     <strong>
-        At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience.
+        ⚠️ At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience. ⚠️
     </strong>
 </div>
 
 ## My Services
 ### Walking:
+<div class="alert info">
+    <strong>
+
 * 20 minutes: $25
 * 40 minutes: $45
 * 60 minutes: $60
 
-### Running: 
-    $50 per 30 minutes
+    </strong>
+</div>
+
+### Running: $50 per 30 minutes
+
 Got an energetic breed that needs lots of energy released? I offer running services with limited availability
 
 <div class="alert info">
@@ -49,24 +55,27 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 
 <div class="alert warn">
     <strong>
-        Additional $10 per teir if your dog requires any training or reactivity management for any activity above.
+        ⚠️ Additional $10 per teir if your dog requires any training or reactivity management for any activity above. ⚠️
     </strong>
 </div>
 
-### Play dates / Solo Training
-
-Out of the house often? Worried about your dog being alone for too long or just want them to have an extra bit of excitement during their day but they already walk enough with you? Want your pup to study up on their training while you're out and about? I can stop by for
+### Play dates / Solo Training: 
+<div class="alert info">
+    <strong>
 
 * Play sessions: $25 per 30 minutes
 * Solo Training: $35 per 30 minutes
 
-### In Home Training
+    </strong>
+</div>
+
+Out of the house often? Worried about your dog being alone for too long or just want them to have an extra bit of excitement during their day but they already walk enough with you? Want your pup to study up on their training while you're out and about? I can stop by for
+
+### In Home Training: $75 per hour
 
 Working with you and your dog directly on your most pressing issues by teaching you how your dog communicates with you through their body language and actions. Strengthen your bond with your dog and effectiveness as a trainer!
 
 Don't see the training you want listed above? Contact me and we'll see if I can help you. 
-
-    $75 per hour
 
 ## Contact me
 
