@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css" />
+<title>ci Dog Training & Walking| Longmont, CO Dog Training & Walking</title>
 
 ![image](./banner.png)
 
