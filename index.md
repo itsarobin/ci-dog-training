@@ -49,7 +49,7 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 
 <div class="alert info">
     <strong>
-    🚲 Want to bike with your dog? this is an excellent stepping stone! 🚲
+    🚲 Want to bike with your dog? This is an excellent stepping stone! 🚲
     </strong>
 </div>
 
