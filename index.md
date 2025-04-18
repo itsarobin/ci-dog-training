@@ -1,5 +1,7 @@
+title: ci Dog Training & Walking | Longmont, CO
+---
+
 <link rel="stylesheet" href="style.css" />
-<title>ci Dog Training & Walking| Longmont, CO Dog Training & Walking</title>
 
 ![image](./banner.png)
 <a href="#who-am-i" class="arrow-container">
@@ -11,7 +13,7 @@
 ### My name is Robin Fisher (they/she)
 ### A Longmont resident of nearly 10 years.
 ### An intermediate dog trainer:
-* Working on my CPDT-KA Certification
+* Working on my [CPDT-KA Certification](https://www.ccpdt.org/about-us/)
 * Offering basic to intermediate level training for dogs of all ages.
     * #### Basic commands: 
         * Sit
@@ -22,8 +24,8 @@
         * Leave / dismiss
     * #### Multiple stage commands 
     * #### Leash skills
-        * Curtailing Reactivity
-        * Loose Leash Walking
+        * Curtailing reactivity
+        * Loose leash walking
         * Running
     * #### House training
     * #### Crate training
@@ -90,7 +92,7 @@ $75 per hour
 
 Working with you and your dog directly on your most pressing issues by teaching you how your dog communicates with you through their body language and actions. Strengthen your bond with your dog and effectiveness as a trainer!
 
-### Don't see the training you want listed above? Contact me and we'll see if I can help you. 
+### Don't see the service you want listed above? Contact me and we'll see if I can help you. 
 
 ## Contact me
 
