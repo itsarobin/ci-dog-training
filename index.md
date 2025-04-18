@@ -14,7 +14,7 @@ title: "ci Dog Training & Walking | Longmont, CO"
 ### My name is Robin Fisher (they/she)
 ### A Longmont resident of nearly 10 years.
 ### An intermediate dog trainer:
-* Working on my [CPDT-KA Certification](https://www.ccpdt.org/about-us/)
+* Working on my [Certified Professional Dog Trainer - Knowledge Assessed (CPDT-KA®) Certification](https://www.ccpdt.org/about-us/)
 * Offering basic to intermediate level training for dogs of all ages.
     * #### Basic commands: 
         * Sit
@@ -34,15 +34,20 @@ title: "ci Dog Training & Walking | Longmont, CO"
 
 <div class="alert warn">
     <strong>
-        ⚠️ At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience. ⚠️
+        ⚠️ At this time, I can not offer any services to people-aggressive dogs. Although, I am happy to speak with you to determine if your dog falls outside of my skills and experience.
     </strong>
 </div>
 
 ## My Services
+<div class="alert info">
+    <strong>
+    🌈✨ Discounts available if scheduling multiple days per week!
+    </strong>
+</div>
 
 <div class="alert warn">
     <strong>
-        ⚠️ Additional $10 per teir if your dog requires any training or reactivity management for any activity below. ⚠️
+        💰 Additional $10 per teir if your dog requires any training or reactivity management for any activity below.
     </strong>
 </div>
 
