@@ -1,11 +1,6 @@
 <link rel="stylesheet" href="style.css" />
 <title>ci Dog Training & Walking| Longmont, CO Dog Training & Walking</title>
-<a href="#my-services">
-<div class="arrow-container">
-<img src="/banner.png"/ alt="Banner for ci Dog Training" />
-<i class="arrow down"></i>
-</div>
-</a>
+<a href="#my-services"><div class="arrow-container"><img src="/banner.png"/ alt="Banner for ci Dog Training" /><i class="arrow down"></i></div></a>
 
 ## Who am I?
 
