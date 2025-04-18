@@ -1,4 +1,5 @@
-title: ci Dog Training & Walking | Longmont, CO
+---
+title: "ci Dog Training & Walking | Longmont, CO"
 ---
 
 <link rel="stylesheet" href="style.css" />
