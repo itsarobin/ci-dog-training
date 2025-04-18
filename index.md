@@ -2,10 +2,8 @@
 <title>ci Dog Training & Walking| Longmont, CO Dog Training & Walking</title>
 <a href="#my-services">
     <div class="arrow-container">
-
-![image](./banner.png)
-
-<i class="arrow down"></i>
+        <img src="/banner.png"/ alt="Banner for ci Dog Training">
+        <i class="arrow down"></i>
     </div>
 </a>
 
