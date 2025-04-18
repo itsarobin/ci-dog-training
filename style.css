@@ -11,10 +11,13 @@ h2 {
 a {
     color: #9381ff;
 }
-.markdown strong ul {
+.markdown-body h3 {
+    margin: 0;
+}
+.markdown-body strong ul {
     margin-bottom: 0;
 }
-.markdown ul h4 {
+.markdown-body ul h4 {
     margin-top: 0;
     margin-bottom: 0;
 }
