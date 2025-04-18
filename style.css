@@ -15,6 +15,10 @@ a {
 strong ul {
     margin-bottom: 0;
 }
+ul h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 .alert {
     border-left: 6px solid #9381ff;
     background-color: #f8f7ff;
