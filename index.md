@@ -9,21 +9,21 @@
 ### An intermediate dog trainer:
 * Working on my CPDT-KA Certification
 * Offering basic to intermedia level training for dogs of all ages.
-    * Basic Commands: 
+    * #### Basic Commands: 
         * Sit
         * Stay
         * Recall
         * Release
         * Placement
         * Leave / dismiss
-    * Multiple Stage commands 
-    * Leash skills
+    * #### Multiple Stage commands 
+    * #### Leash skills
         * Curtailing Reactivity
         * Loose Leash Walking
         * Running / Skate Joring
-    * House training
-    * Crate Training
-    * Muzzle Training
+    * #### House training
+    * #### Crate Training
+    * #### Muzzle Training
 
 <div class="alert warn">
     <strong>
