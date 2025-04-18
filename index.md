@@ -41,13 +41,6 @@
     $50 per 30 minutes
 Got an energetic breed that needs lots of energy released? I offer running services with limited availability
 
-### Joring:
-
-    $30 per 30 minutes
-
-Energetic dog? Want your pup to learn an activity that's fun for you both, but is not too demanding on you? Skate joring is a perfect activity for you and your dog to do together!
-
-
 <div class="alert info">
     <strong>
     🚲 Want to bike with your dog? this is an excellent stepping stone! 🚲
