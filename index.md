@@ -5,6 +5,7 @@
 ![image](./banner.png)
 
 <i class="arrow down"></i>
+
 </a>
 
 ## Who am I?
@@ -37,18 +38,24 @@
 </div>
 
 ## My Services
-### Walking:
-<div class="alert info">
+### Walking
+<div class="alert price">
     <strong>
-        <ul>
-            <li>20 minutes: $25</li>
-            <li>40 minutes: $45</li>
-            <li>60 minutes: $60</li>
-        </ul>
+20 minutes: $25
+
+40 minutes: $45
+
+60 minutes: $60
     </strong>
 </div>
 
-### Running: $50 per 30 minutes
+### Running
+
+<div class="alert price">
+    <strong>
+$50 per 30 minutes
+    </strong>
+</div>
 
 Got an energetic breed that needs lots of energy released? I offer running services with limited availability
 
@@ -64,19 +71,23 @@ Got an energetic breed that needs lots of energy released? I offer running servi
     </strong>
 </div>
 
-### Play dates / Solo Training: 
-<div class="alert info">
+### Play dates / Solo Training
+<div class="alert price">
     <strong>
-        <ul>
-            <li>Play sessions: $25 per 30 minutes </li>
-            <li>Solo Training: $35 per 30 minutes </li>
-        </ul>
+Play sessions: $25 per 30 minutes
+
+Solo Training: $35 per 30 minutes
     </strong>
 </div>
 
 Out of the house often? Worried about your dog being alone for too long or just want them to have an extra bit of excitement during their day but they already walk enough with you? Want your pup to study up on their training while you're out and about? I can stop by for
 
-### In Home Training: $75 per hour
+### In Home Training
+<div class="alert price">
+    <strong>
+$75 per hour
+    </strong>
+</div>
 
 Working with you and your dog directly on your most pressing issues by teaching you how your dog communicates with you through their body language and actions. Strengthen your bond with your dog and effectiveness as a trainer!
 

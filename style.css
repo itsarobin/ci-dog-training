@@ -37,7 +37,7 @@ a {
 }
 .alert.info { border-color: #9381ff; }
 .alert.warn { border-color: orange; background-color: #fff4e5; }
-.alert.success { border-color: green; background-color: #e6ffed; }
+.alert.price { border-color: green; background-color: #e6ffed; }
 .arrow {
     border: solid black;
     border-width: 0 3em 3em 0;
