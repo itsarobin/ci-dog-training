@@ -2,7 +2,7 @@
 <title>ci Dog Training & Walking| Longmont, CO Dog Training & Walking</title>
 
 ![image](./banner.png)
-<a href="#my-services" class="arrow-container">
+<a href="#who-am-i" class="arrow-container">
 <i class="arrow down"></i>
 </a>
 
