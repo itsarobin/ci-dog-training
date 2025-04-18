@@ -14,6 +14,9 @@ a {
 .markdown-body h3 {
     margin: 0;
 }
+.markdown-body h3 + p{
+    margin-top: 1em;
+}
 .markdown-body strong ul {
     margin-bottom: 0;
 }
