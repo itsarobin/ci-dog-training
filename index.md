@@ -90,7 +90,9 @@ Out of the house often? Worried about your dog being alone for too long or just 
 ### In Home Training
 <div class="alert price">
     <strong>
-$75 per hour
+<p>60 minutes: $75</p>
+
+<p>90 minutes: $100</p>
     </strong>
 </div>
 
