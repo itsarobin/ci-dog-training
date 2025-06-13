@@ -39,6 +39,11 @@ title: "ci Dog Training & Walking | Longmont, CO"
 </div>
 
 ## My Services
+
+### [All sessions are tracked and available to view through my Strava account, just click here!](https://www.strava.com/athletes/8229298)
+
+I track and time all sessions not only for your piece of mind but also so you can follow your pup's routes and routines. A free Strava acount in necessary to view my full history, otherwise you'll only be able to see my last 3 activities.
+
 <div class="alert info">
 <strong>
     🌈✨ Discounts available if scheduling multiple days per week!
@@ -80,8 +85,10 @@ Got an energetic breed that needs lots of energy released? I offer running servi
 <div class="alert price">
 <strong>
 <p>Play sessions: $25 per 30 minutes</p>
-
+<p>Play sessions: $40 per 60 minutes</p>
+<br>
 <p>Solo Training: $35 per 30 minutes</p>
+<p>Solo Training: $50 per 60 minutes</p>
 </strong>
 </div>
 
@@ -104,3 +111,4 @@ Working with you and your dog directly on your most pressing issues by teaching 
 
 ### Email: [robin@cidogtraining.com](mailto:robin@cidogtraining.com) 
 ### Call / Text: [720-378-8019](tel:720-378-8019)
+### Strava Tracking: https://www.strava.com/athletes/8229298
