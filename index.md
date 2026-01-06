@@ -12,7 +12,7 @@ title: "ci Dog Training & Walking | Longmont, CO"
 ## Who am I?
 
 ### My name is Robin Fisher (they/she)
-### A Longmont resident of nearly 10 years.
+### A Longmont resident of 10 years.
 ### An intermediate dog trainer:
 * Working on my **[Certified Professional Dog Trainer - Knowledge Assessed (CPDT-KA®) Certification](https://www.ccpdt.org/about-us/)**
 * Offering basic to intermediate level training for dogs of all ages.
@@ -22,7 +22,7 @@ title: "ci Dog Training & Walking | Longmont, CO"
         * Recall
         * Release
         * Placement
-        * Leave / dismiss
+        * Leave it
     * #### Multiple stage commands 
     * #### Leash skills
         * Curtailing reactivity
@@ -40,9 +40,7 @@ title: "ci Dog Training & Walking | Longmont, CO"
 
 ## My Services
 
-### [All sessions are tracked and available to view through my Strava account, just click here!](https://www.strava.com/athletes/8229298)
-
-I track and time all sessions not only for your piece of mind but also so you can follow your pup's routes and routines. A free Strava acount in necessary to view my full history, otherwise you'll only be able to see my last 3 activities.
+### [Learn about keeping you dog safe and the standards I follow when caring for your dogs!](/safety)
 
 <div class="alert info">
 <strong>
@@ -55,6 +53,8 @@ I track and time all sessions not only for your piece of mind but also so you ca
 </div>
 
 ### Walking
+All times listed are for the time your dog will be walking. This does not include greetings, preparation, or goodbyes.
+
 <div class="alert price">
 <strong>
 <p>20 minutes: $25</p>
@@ -66,6 +66,7 @@ I track and time all sessions not only for your piece of mind but also so you ca
 </div>
 
 ### Running
+I offer running services with limited availability for breeds that require more intense exercise.
 
 <div class="alert price">
     <strong>
@@ -73,7 +74,6 @@ $50 per 30 minutes
     </strong>
 </div>
 
-Got an energetic breed that needs lots of energy released? I offer running services with limited availability
 
 <div class="alert info">
     <strong>
@@ -111,4 +111,3 @@ Working with you and your dog directly on your most pressing issues by teaching 
 
 ### Email: [robin@cidogtraining.com](mailto:robin@cidogtraining.com) 
 ### Call / Text: [720-378-8019](tel:720-378-8019)
-### Strava Tracking: https://www.strava.com/athletes/8229298
