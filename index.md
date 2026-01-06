@@ -44,6 +44,10 @@ title: "ci Dog Training & Walking | Longmont, CO"
 
 <div class="alert info">
 <strong>
+    ⏳ All times listed are for the time your dog will be walking. This does not include greetings, preparation, or goodbyes.
+</strong>
+<hr/>
+<strong>
     🌈✨ Discounts available if scheduling multiple days per week!
 </strong>
 <hr/>
@@ -53,7 +57,6 @@ title: "ci Dog Training & Walking | Longmont, CO"
 </div>
 
 ### Walking
-All times listed are for the time your dog will be walking. This does not include greetings, preparation, or goodbyes.
 
 <div class="alert price">
 <strong>
